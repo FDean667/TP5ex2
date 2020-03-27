@@ -1,0 +1,4 @@
+/out/production/TP5ex2/META-INF/TP5ex2.kotlin_module
+*.fxml
+/src/sample/sample.fxml
+/out/production/TP5ex2/sample/sample.fxml
